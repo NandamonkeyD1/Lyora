@@ -1,0 +1,12 @@
+==============================================================================
+PETUNJUK:
+Salin teks di bawah ini (pilih salah satu) lalu tempelkan ke kolom "Key" di GitHub:
+https://github.com/Nandamonkey01/lyora/settings/keys/new
+==============================================================================
+
+OPSI 1 (Rekomendasi Utama - Standar RSA 4096-bit):
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3XINwv3pbgoxHlx/SIvqddUX6xUPEEPEiN6NzpF3OAwvufCMgNZUdLHhoGVNDODvXsQiB1JCpErwDAGOPMLTzPzUp1UrK2YNPEIfuTEfp+zz8bXAc6rlFhSAopAgc7PhJuUKcBorjL0nVkf+43OupHsnI3NnjA0HSi4F2rgJBua3zeciWwQ7qwVP/K9xkQCBHP1lR05A6/QB+HAx7RakeABXxb+dDhG904cKfWMIq3NyfeJBfCan3ffOCrpgozQlupvpXQsall7dynbkIm/v6qEb+/Rjs3jHaXVFO1xdAs5SdruQrqe085JcTDGK1GURsliESTmJ9YTBbwyTjASrRzkpcyP5p1b1tNbOWeQ/bwOeSsHs90mBDznh6BGMMCbCOANIBhElep4M4qkyj9/IG5DLdP/RVuOZeWgO7W8KXRi373apNGhJFMHW85Hq/MYE9wTjc+MIfM7zZtp/Ed3E5pbZ21mgLDOR68MLVwFQoify9LtYfDE0kS+4iR3HTtYdmP762euy/71eNSTET16Bp2snaAxkvPas+M9O/64T9TaKnd4Gv4Bgbn4zHWjnQLecIIjm+FynpnUSek1iXLfPJL2R44EbGTwfzo/ctUn1CHTbvhygiMDyDAZXF6gOD9SeZ7mOes+4Rygnak4H7vutZCVQxNhfwMY7x5S7gyDxo3Q== deploy-lyora@solvianova.com
+
+
+OPSI 2 (Alternatif - Standar Ed25519):
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF3fMQ8Y8gCVGOgptGy351GeYwrxQyABjD3se8Mk3fUH deploy-lyora@solvianova.com
